@@ -1,4 +1,4 @@
-![Product-service](https://github.com/user-attachments/assets/34bedce5-5fdb-47c0-879b-c58e1088f41c)# **🚀 Kubernetes Container Orchestration**
+# **🚀 Kubernetes Container Orchestration**
 
 🛠️ **This repository is used to deploy a microservices application on Kubernetes using Minikube, ensuring proper service communication and configuration.**. 
 ---
